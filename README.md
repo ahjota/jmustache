@@ -1,4 +1,4 @@
-This is a Java implementation of the [Mustache template language](http://mustache.github.com/).
+This is a Java implementation of the [Mustache template language](https://mustache.github.io/).
 
 [![Build Status](https://travis-ci.org/samskivert/jmustache.svg?branch=master)](https://travis-ci.org/samskivert/jmustache)
 
